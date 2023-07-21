@@ -1,0 +1,6 @@
+# ninja log v5
+20	221	7024585613164148	CMakeFiles/lab8-0.dir/src/heapSort.c.obj	1cbe8b951b8bb74b
+5	226	7024585613224979	CMakeFiles/lab8-0.dir/src/algorithmKraskala.c.obj	1d1407cd314ee81
+0	456	7077635021430206	build.ninja	68662ea48a8f68ce
+221	380	7024600803462140	lab8-0.exe	7acfd325ff1ecdad
+5	221	7024600801909445	CMakeFiles/lab8-0.dir/src/input.c.obj	318fca76426cc089
