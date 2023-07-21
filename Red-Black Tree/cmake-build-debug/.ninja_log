@@ -1,7 +1,0 @@
-# ninja log v5
-7	170	7009951624991152	CMakeFiles/lab6-1.dir/src/RBTree.c.obj	e73da29c2d5f13d9
-2	135	7009540449820795	CMakeFiles/lab6-1.dir/src/main.c.obj	ba3b3f08e85e4876
-170	331	7009951626571599	lab6-1.exe	9f4aad8b9421eaf2
-1	817	7016883872101643	build.ninja	d6cf49b65caccabe
-13	165	7009951624971121	CMakeFiles/lab6-1.dir/src/additional.c.obj	f2d41f83d5a39fcd
-3	168	7009951624991152	CMakeFiles/lab6-1.dir/src/fixinsert.c.obj	8e4d69e22b313c07
